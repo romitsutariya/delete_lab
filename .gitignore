@@ -37,3 +37,4 @@ build/
 ### Mac OS ###
 .DS_Store
 /out/production/delete_lab/com/walter/Main.class
+/out/
